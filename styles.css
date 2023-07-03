@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: lightyellow;
+}
+
+h1 {
+    background-color: red;
+    color:white;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div,p {
+    text-align: center;
+    margin: 15px;
+}
+
+div button {
+    border:none;
+    background-color: blue;
+    color:white;
+    padding:5px;
+    letter-spacing: 2px;
+}
+
+
